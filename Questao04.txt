@@ -1,0 +1,4 @@
+supondo que haveria 3 interruptores: interruptor "A", interruptor "B" e interruptor "C".  
+
+caso 1: Eu ligaria interruptor "A" e iria ate uma das três salas, e veria se a lampada estaria ligada. se a lampada estivesse ligada, ja saberia que o interruptor "A" liga aquela lampada, e ai ficaria facil para descobrir os das outras lampadas. seria so ligar o interruptor "B" e entrar em outra sala para ver se a lampada estaria ligada, caso nao esteja, ja sabemos que o interruptor daquela sala seria o "C".
+
